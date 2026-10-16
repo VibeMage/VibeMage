@@ -42,6 +42,7 @@ English | [简体中文](README.zh-CN.md)
 | Project | What it is |
 | --- | --- |
 | [**copymunk**](https://github.com/VibeMage/copymunk) · [site](https://copymunk.com) | Open-source clipboard manager for Mac, iPhone and iPad — ⇧⌘V card panel on Mac, your history on iOS through your own iCloud. Local-first, no third-party SDKs, SwiftUI. |
+| [**简闻 Jianwen**](https://jianwen.news) | AI-curated Chinese news — stories from dozens of global sources, scored on seven dimensions so you only read what matters. |
 | [**otty-collaboration**](https://github.com/VibeMage/otty-collaboration) | Two-way Claude Code ↔ Codex handoffs inside the Otty terminal. |
 | [**app-logo-design-skill**](https://github.com/VibeMage/app-logo-design-skill) | A research-backed agent skill for simple, distinctive logos and app icons. |
 

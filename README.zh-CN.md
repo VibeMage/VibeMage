@@ -42,6 +42,7 @@
 | 项目 | 简介 |
 | --- | --- |
 | [**copymunk**](https://github.com/VibeMage/copymunk) · [官网](https://copymunk.com) | 开源剪贴板管理器，支持 Mac、iPhone、iPad：Mac 上 ⇧⌘V 呼出卡片面板，iOS 上通过你自己的 iCloud 同步历史。本地优先，无第三方 SDK，SwiftUI。 |
+| [**简闻**](https://jianwen.news) | 用 AI 给新闻打分，只看重要的新闻：从几十个国际信源采集，按七个维度评分排序。 |
 | [**otty-collaboration**](https://github.com/VibeMage/otty-collaboration) | 在 Otty 终端里让 Claude Code 和 Codex 双向交接任务。 |
 | [**app-logo-design-skill**](https://github.com/VibeMage/app-logo-design-skill) | 有研究依据的 agent 技能，用来设计简洁、有辨识度的 Logo 和 App 图标。 |
 
