@@ -3,7 +3,7 @@ English | [简体中文](README.zh-CN.md)
 <h1 align="center">Hi, I'm VibeMage 👋</h1>
 
 <p align="center">
-  Android developer by trade, learning iOS, building my own things with AI agents.<br/>
+  Product engineer shipping on iOS, Android and the web — building my own things with AI agents.<br/>
   <sub>Simple beats clever.</sub>
 </p>
 

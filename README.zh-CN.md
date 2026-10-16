@@ -3,7 +3,7 @@
 <h1 align="center">你好，我是 VibeMage 👋</h1>
 
 <p align="center">
-  Android 开发者，正在学 iOS，用 AI agent 做属于自己的东西。<br/>
+  产品工程师，做 iOS、Android 和 Web，用 AI agent 做属于自己的东西。<br/>
   <sub>简单胜过优雅。</sub>
 </p>
 
