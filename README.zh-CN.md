@@ -41,13 +41,21 @@
 
 | 项目 | 简介 |
 | --- | --- |
-| [**copyo**](https://github.com/VibeMage/copyo) | 开源 macOS 剪贴板管理器：底部滑出卡片面板、即时搜索、Pinboard。本地优先，SwiftUI，零依赖。 |
+| [**copymunk**](https://github.com/VibeMage/copymunk) · [官网](https://copymunk.com) | 开源剪贴板管理器，支持 Mac、iPhone、iPad：Mac 上 ⇧⌘V 呼出卡片面板，iOS 上通过你自己的 iCloud 同步历史。本地优先，无第三方 SDK，SwiftUI。 |
 | [**otty-collaboration**](https://github.com/VibeMage/otty-collaboration) | 在 Otty 终端里让 Claude Code 和 Codex 双向交接任务。 |
 | [**app-logo-design-skill**](https://github.com/VibeMage/app-logo-design-skill) | 有研究依据的 agent 技能，用来设计简洁、有辨识度的 Logo 和 App 图标。 |
-| [**cli-pet**](https://github.com/VibeMage/cli-pet) | 🐱 住在终端里的拓麻歌子风格电子宠物。 |
+
+### 🧩 Claude Code mods
+
+| Mod | 功能 |
+| --- | --- |
+| [**glance**](https://github.com/VibeMage/claude-mod-glance) | 输入框下方的 HUD：模型、git、花费、上下文与限额进度条、工具、技能、MCP、agent、待办。 |
+| [**waypoint**](https://github.com/VibeMage/claude-mod-waypoint) | 输入框上方一行显示项目进度：/goal、清单、路线图、GitHub 里程碑、agent 窗格。 |
+| [**pixipet**](https://github.com/VibeMage/claude-mod-pet) | 像素电子宠物，看着 Claude 干活，陪你写代码。 |
 
 ### 🎨 小实验
 
+- [**cli-pet**](https://github.com/VibeMage/cli-pet) — 🐱 住在终端里的拓麻歌子风格电子宠物。
 - [**wuhan-3d-city**](https://github.com/VibeMage/wuhan-3d-city) — 武汉 · 江城入画，Three.js 交互式微缩城市。
 - [**zhongmo-holo-cards**](https://github.com/VibeMage/zhongmo-holo-cards) — 卡牌手游《终末之战》的交互闪卡。
 

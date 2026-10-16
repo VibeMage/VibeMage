@@ -41,13 +41,21 @@ English | [简体中文](README.zh-CN.md)
 
 | Project | What it is |
 | --- | --- |
-| [**copyo**](https://github.com/VibeMage/copyo) | Open-source clipboard manager for macOS — slide-out card panel, instant search, pinboards. Local-first, SwiftUI, zero dependencies. |
+| [**copymunk**](https://github.com/VibeMage/copymunk) · [site](https://copymunk.com) | Open-source clipboard manager for Mac, iPhone and iPad — ⇧⌘V card panel on Mac, your history on iOS through your own iCloud. Local-first, no third-party SDKs, SwiftUI. |
 | [**otty-collaboration**](https://github.com/VibeMage/otty-collaboration) | Two-way Claude Code ↔ Codex handoffs inside the Otty terminal. |
 | [**app-logo-design-skill**](https://github.com/VibeMage/app-logo-design-skill) | A research-backed agent skill for simple, distinctive logos and app icons. |
-| [**cli-pet**](https://github.com/VibeMage/cli-pet) | 🐱 A Tamagotchi-style pet that lives in your terminal. |
+
+### 🧩 Claude Code mods
+
+| Mod | What it does |
+| --- | --- |
+| [**glance**](https://github.com/VibeMage/claude-mod-glance) | A HUD under the prompt — model, git, cost, context & rate-limit bars, tools, skills, MCP, agents, todos. |
+| [**waypoint**](https://github.com/VibeMage/claude-mod-waypoint) | Project progress in one row above the prompt — /goal, checklists, roadmap, GitHub milestones, agent panes. |
+| [**pixipet**](https://github.com/VibeMage/claude-mod-pet) | A pixel pet that watches what Claude is doing and keeps you company. |
 
 ### 🎨 Little experiments
 
+- [**cli-pet**](https://github.com/VibeMage/cli-pet) — 🐱 A Tamagotchi-style pet that lives in your terminal.
 - [**wuhan-3d-city**](https://github.com/VibeMage/wuhan-3d-city) — An interactive Three.js miniature of Wuhan.
 - [**zhongmo-holo-cards**](https://github.com/VibeMage/zhongmo-holo-cards) — Holographic interactive cards for my card game *终末之战*.
 
